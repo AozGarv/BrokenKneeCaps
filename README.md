@@ -1,2 +1,4 @@
 # BrokenKneeCaps
-Our submission for Datasprint2025
+Only supported for python version 3.8-3.12.
+
+Our submission for DataSprint 2025
